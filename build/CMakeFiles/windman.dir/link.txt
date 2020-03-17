@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/windman.dir/main.cpp.o  -o windman  -L/usr/lib/libSM.so  -L/usr/lib/libICE.so  -L/usr/lib/libX11.so  -L/usr/lib/libXext.so -Wl,-rpath,/usr/lib/libSM.so:/usr/lib/libICE.so:/usr/lib/libX11.so:/usr/lib/libXext.so -lQt5::Core -lSM -lICE -lX11 -lXext 

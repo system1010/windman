@@ -1,0 +1,3 @@
+/root/Downloads/windman/build/CMakeFiles/rebuild_cache.dir
+/root/Downloads/windman/build/CMakeFiles/windman.dir
+/root/Downloads/windman/build/CMakeFiles/edit_cache.dir
