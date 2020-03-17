@@ -1,3 +1,3 @@
 # windman
 
-cd build;cmake ..
+cd build;cmake ..;make
