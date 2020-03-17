@@ -1,0 +1,3 @@
+# windman
+
+cd build;cmake ..
